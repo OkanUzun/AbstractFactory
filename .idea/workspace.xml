@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3cdca72-5542-4674-9677-79296bddf446" name="Default Changelist" comment="" />
+    <list default="true" id="f3cdca72-5542-4674-9677-79296bddf446" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactory/ComputerHarddisk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactory/ComputerMachineFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactory/ComputerMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactory/ComputerProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactory/Harddisk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactory/MachineFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactory/Main$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactory/Main$FactoryMaker$MachineType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactory/Main$FactoryMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactory/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactory/Memory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactory/Processor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactory/XboxHarddisk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactory/XboxMachineFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactory/XboxMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AbstractFactory/XboxProcessor.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,8 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state relative-caret-position="195">
+              <caret line="13" column="65" lean-forward="true" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
               <folding>
                 <element signature="e#547#548#0" expanded="true" />
                 <element signature="e#576#577#0" expanded="true" />
@@ -195,6 +214,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -227,6 +249,7 @@
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -256,7 +279,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535357005164" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535357723559" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -297,12 +320,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535352958110</updated>
-      <workItem from="1535352960445" duration="3304000" />
+      <workItem from="1535352960445" duration="3535000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3304000" />
+    <option name="totallyTimeSpent" value="3535000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -320,7 +343,7 @@
       <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="JRebel Executor" />
       <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -474,8 +497,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="195">
+          <caret line="13" column="65" lean-forward="true" selection-start-line="13" selection-start-column="65" selection-end-line="13" selection-end-column="65" />
           <folding>
             <element signature="e#547#548#0" expanded="true" />
             <element signature="e#576#577#0" expanded="true" />
